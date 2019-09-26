@@ -1,7 +1,7 @@
 package com.yi.clasz
 
 /**
- *
+ * 通过伴生类的构造函数功能，来实现伴生对象的构造函数功能
  */
 object ApplyApp {
   def main(args: Array[String]): Unit = {
